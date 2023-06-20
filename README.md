@@ -2,31 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Packet Capture Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-    }
-    h1 {
-      color: #333;
-    }
-    h2 {
-      color: #666;
-    }
-    p {
-      color: #777;
-    }
-    pre {
-      background-color: #f5f5f5;
-      padding: 10px;
-      border-radius: 5px;
-      font-size: 14px;
-    }
-    .emoji {
-      font-size: 18px;
-    }
-  </style>
 </head>
 <body>
   <h1>🌐 Packet Capture Project</h1>

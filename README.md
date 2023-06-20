@@ -19,12 +19,9 @@
   </ul>
   <h2>Code</h2>
   <p>
-    The following is an overview of the code used in the Packet Capture Project. For the complete code, please refer to the <a href="https://github.com/your-repo">GitHub repository</a>.
+    The following is an overview of the code used in the Packet Capture Project. For the complete code, please refer to the <a href="https://github.com/psantana5/net-sniffer">GitHub repository</a>.
   </p>
   <pre>
-    <code>
-      // Code snippet here...
-    </code>
   </pre>
 </body>
 </html>

@@ -8,7 +8,7 @@
   <h2>Overview</h2>
   <p>
     The Packet Capture Project is a program that captures network packets from a specified network device, filters TCP and UDP packets, and extracts various information from them.
-    It provides a user-friendly interface to start and stop the packet capture process.
+    It provides a user-friendly interface to start and stop the packet capture process. IMPORTANT! Must change network interface device name from YOUR_NET_INTERFACE to whatever network interface you want to capture from! Located in line 179.
   </p>
   <h2>Features</h2>
   <ul>
